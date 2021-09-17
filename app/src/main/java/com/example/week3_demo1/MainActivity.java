@@ -71,13 +71,13 @@ int i =0;
 
         @Override
         public void onClick(View view) {
-            button3.setTextColor(135); 
+            button3.setTextColor(135);
         }
     }
 
     @Override
     protected void onStart(){
-        super.onStart();
+        super.onStart(); 
 
 
     }
